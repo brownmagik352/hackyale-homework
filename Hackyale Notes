@@ -11,4 +11,7 @@ git merge branchname
 git push origin master
 
 
-co is for moving between branches
+--co is for moving between branches
+--commits are timepoints along branches
+--if you switch from one branch to another, you lose any changes
+--be on branch you want to merge in to (i.e. be on master when you want to merge into it)
