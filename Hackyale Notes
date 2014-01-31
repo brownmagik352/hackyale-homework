@@ -9,6 +9,8 @@ git add file(s)
 git commit -m "message"
 git merge branchname
 git push origin master
+git remote
+git diff
 
 
 --co is for moving between branches
