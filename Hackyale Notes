@@ -1,0 +1,11 @@
+Hackyale Notes
+
+git init
+git status
+git co -b branchname
+git branch
+git co branchname
+git add file(s)
+git commit -m "message"
+git merge branchname
+git push origin master
